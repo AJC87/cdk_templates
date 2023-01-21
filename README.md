@@ -1,2 +1,2 @@
 # cdk_templates
-Repository of CDK templates and useful scripts to automate setup etc
+Repository of Cloud Development Kit templates and useful scripts to automate setup etc
