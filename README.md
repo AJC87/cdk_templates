@@ -4,3 +4,7 @@ Repository of Cloud Development Kit templates and useful scripts to automate set
 npm install -g aws-cdk
 
 cdk init app --language typescript
+
+cdk bootstrap
+
+<!-- Command to delete anything bootstrap created -->
